@@ -44,51 +44,6 @@ public class Exercise4 {
 
 		
 		
-		
-
-//		System.out.print("Enter a number: ");  
-//		int num= sc.nextInt();
-//		
-//		Integer obj=new Integer(num);
-//		
-//		String str=obj.toString();
-//		System.out.println(str);
-//		
-//		int n=str.length();
-//		
-//		char c[]=new char[n];
-//		
-//		int a[]=new int[n];
-//		
-//		int dif[]=new int[n-1];
-//		
-//		for(int i=0;i<n;i++) {
-//			c[i]=str.charAt(i);
-//			
-//		}
-//		
-//		  for(int i=0;i<c.length;i++) { 
-//			  String b=(String) String.valueOf(c[i]); 
-//
-//			//  System.out.println(b);
-//			  
-//			  a[i]=Integer.parseInt(String.valueOf(b));
-//			  System.out.print(a[i]+"\t");
-//			  
-//			  }
-//		  System.out.println();
-//		 
-//		StringBuffer sb = new StringBuffer(); 
-//		for(int i=0;i<a.length;i++) {
-//			 dif[i]=a[i]-a[i+1];
-//			// sb.append(dif);
-//			 System.out.print(dif[i]);
-//			// System.out.println(sb.toString());
-//
-//			
-//		}
-
-
 	}
 
 }
